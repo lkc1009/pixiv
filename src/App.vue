@@ -8,4 +8,8 @@ import Container from './layout/Container.vue'
     </div>
 </template>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+div {
+    height: 100%;
+}
+</style>
